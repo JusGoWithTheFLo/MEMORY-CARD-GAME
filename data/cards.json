@@ -1,38 +1,38 @@
 [
     {
-        "image": "../assets/chili.png",
-        "name": "chili"
+        "image": "../assets/pokemon/chandelure.png",
+        "name": "chandelure"
     },
     {
-        "image": "../assets/grapes.png",
-        "name": "grapes"
+        "image": "../assets/pokemon/drifloon.png",
+        "name": "drifloon"
     },
     {
-        "image": "../assets/lemon.png",
-        "name": "lemon"
+        "image": "../assets/pokemon/gastly.png",
+        "name": "gastly"
     },
     {
-        "image": "../assets/orange.png",
-        "name": "orange"
+        "image": "../assets/pokemon/haunter.png",
+        "name": "haunter"
     },
     {
-        "image": "../assets/pineapple.png",
-        "name": "pineapple"
+        "image": "../assets/pokemon/honedge.png",
+        "name": "honedge"
     },
     {
-        "image": "../assets/strawberry.png",
-        "name": "strawberry"
+        "image": "../assets/pokemon/jellicent.png",
+        "name": "jellicent"
     },
     {
-        "image": "../assets/tomato.png",
-        "name": "tomato"
+        "image": "../assets/pokemon/lampent.png",
+        "name": "lampent"
     },
     {
-        "image": "../assets/watermelon.png",
-        "name": "watermelon"
+        "image": "../assets/pokemon/litwick.png",
+        "name": "litwick"
     },
     {
-        "image": "../assets/cherries.png",
-        "name": "cherries"
+        "image": "../assets/pokemon/mimikyu.png",
+        "name": "mimikyu"
     }
 ]
